@@ -13,6 +13,6 @@ Fitness(Walk it Off!)
 Gisborne Event Calender
 - Gizzy Specials                                                                                      1
 - Refer to external database/website                                                       
-- 
+- Implementation of EIT Student calendar 
 
 
