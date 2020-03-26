@@ -13,13 +13,13 @@ Fitness(Walk it Off!)
 Gisborne Event Calender
 - Gizzy Specials                                                                                      1
 - Refer to external database/website                                                       
-- Implementation of EIT Student calendar
 - Group and Friend Reactions through a disscussion forum and chat based communication system
 - Notification Feature which tells you what your friends are attending and have a interact button
   displaying: going, maybe or a not intrested feature by their name each time you get a friend notification   
 - Put in place an information/Events Feature Showing Upcoming Events and things to do in Gisborne 
   Local Sports and Club registrations local walk ways and popular spots in gisborne 
-  and Directions to find these places via GPS etc. 
+  and Directions to find these places via GPS etc.
+- Implement the above information to our calendar.
 
 
 
