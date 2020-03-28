@@ -35,10 +35,10 @@
 *Website Authors/Publishers*
 
 **Designers:**
-*will Create, update and develope growth within the Calendar*
+*Will Create, update and develope growth within the Calendar*
 
 **Management:**
-*Strategic Settings of Activities,directing the Efforts of the designers Planning Processing etc.*
+*Strategic Settings of Activities, directing the Efforts of the designers Planning Processing etc.*
 
 
 ## Personal Profile
@@ -68,14 +68,14 @@ Finance.
 #### Project vision		
 Our project is to connect the community through not only the physical world but via the internet world as well. This can be provided by implementing a website-based software that gives our Gisborne community access to specials such as Clothing stores, Electronic stores and Events like Odeon Cinema specials, Rugby events, Soccer events and more.
 
-#### Team Members
+#### Workload
 
-		Position	Individual	% of Workload
-		Agile Member	Izaya Jahnke	
-		Agile Member	Michael Briggs	
-		Agile Member	Mikaera Te Aho	
-		Agile Member	Chris Temoni	
-		Agile Member	Leslie Tuhou	
+Position	Individual	% of Workload
+Agile Member	Izaya Jahnke	
+Agile Member	Michael Briggs	
+Agile Member	Mikaera Te Aho	
+Agile Member	Chris Temoni	
+Agile Member	Leslie Tuhou	
 				
 
 
