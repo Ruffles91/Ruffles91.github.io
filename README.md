@@ -45,7 +45,7 @@
 #### Team Members
 
   Position	 Individual	
-  Agile Member	 Izaya Jahnke	
+  Agile Member <br />	 Izaya Jahnke	
   Agile Member	 Michael Briggs	
   Agile Member	 Mikaera Te Aho	
   Agile Member	 Chris Temoni	
