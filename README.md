@@ -44,7 +44,7 @@
 ## Personal Profile
 #### Team Members
 
-  ##### Position &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Individual	<br />
+   ##### Position &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Individual &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Description	<br />
   Agile Member 	 Izaya Jahnke	<br />
   Agile Member	 Michael Briggs	<br />
   Agile Member	 Mikaera Te Aho	<br />
