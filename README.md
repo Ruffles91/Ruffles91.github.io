@@ -29,7 +29,7 @@
 ## Key Roles
 
 **Suppliers**
-- Provides Services
+> Provides Services
 
 
 ## Personal Profile
