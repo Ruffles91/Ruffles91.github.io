@@ -28,7 +28,7 @@
 
 ## Key Roles
 
-**Suppliers**
+**Suppliers:**
 *Provides Services*
 
 
