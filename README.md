@@ -46,11 +46,11 @@
 ## Personal Profile
 
 ## Project Charter
-## Gisborne Special website/ Calendar
-### Problem Statement		
+### Gisborne Special website/ Calendar
+#### Problem Statement		
 The current website known as gisbornespecials.co.nz just doesn’t suit Gisborne’s needs. The website itself feels extremely outdated and requires a revamp. Lacks content. Needs catchers, which this website makes you want to close it as soon as you open it. Most importantly the UX and UI is not aesthetically unpleasing.	
 
-### Business Case & Benefits
+#### Business Case & Benefits
 This website revamp is extremely important 
 as modern-day society is moving into 
 advanced, pleasing UX and UI. In terms of 
@@ -58,10 +58,10 @@ business this will please more customers and
 suit their needs resulting in an increase for
 Finance.
 
-### Project vision		
+#### Project vision		
 Our project is to connect the community through not only the physical world but via the internet world as well. This can be provided by implementing a website-based software that gives our Gisborne community access to specials such as Clothing stores, Electronic stores and Events like Odeon Cinema specials, Rugby events, Soccer events and more.
 
-### Team Members
+#### Team Members
 
 		Position	Individual	% of Workload
 		Agile Member	Izaya Jahnke	
