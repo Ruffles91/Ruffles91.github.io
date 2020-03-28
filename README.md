@@ -35,7 +35,7 @@
 *Website Authors/Publishers*
 
 **Designers**
-*will Create, update and development growth within the Calendar*
+*will Create, update and develope growth within the Calendar*
 
 
 
