@@ -2,9 +2,9 @@
 
 # Step 1: Start of Project
 
-## List of Stakeholders
+## Gisborne Specials / Calendar
 
-### Gisborne Specials / Calendar
+### List of Stakeholders
 
 #### External Stakeholders
 - Suppliers
