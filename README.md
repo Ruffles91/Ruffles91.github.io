@@ -4,7 +4,7 @@
 
 ## List of Stakeholders
 
-###**Gisborne Specials / Calendar###**
+**### Gisborne Specials / Calendar **###
 - Suppliers
 - Communities
 - Retail Jobs
