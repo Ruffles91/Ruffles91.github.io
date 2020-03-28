@@ -11,6 +11,8 @@
 - Communities
 - Retail Jobs
 - Information Center
+
+#### Internal Stakeholders
 - Owners
 - Designers
 - Management
