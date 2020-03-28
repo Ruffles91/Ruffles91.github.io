@@ -44,12 +44,12 @@
 ## Personal Profile
 #### Team Members
 
-  Position	 Individual	
-  Agile Member <br />	 Izaya Jahnke	
-  Agile Member	 Michael Briggs	
-  Agile Member	 Mikaera Te Aho	
-  Agile Member	 Chris Temoni	
-  Agile Member	 Leslie Tuhou	
+  Position	 Individual	<br />
+  Agile Member 	 Izaya Jahnke	<br />
+  Agile Member	 Michael Briggs	<br />
+  Agile Member	 Mikaera Te Aho	<br />
+  Agile Member	 Chris Temoni	<br />
+  Agile Member	 Leslie Tuhou	<br />
 
 
 ## Project Charter
