@@ -25,9 +25,9 @@
 **Communities:**
 *User Interaction*
 
-**Retail Jobs**
-*Hallensteins*
-*Warehouse*
+**Retail Jobs:**
+*Hallensteins,*
+*Warehouse,*
 *Noel Leemings*
 
 
