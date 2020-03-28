@@ -44,11 +44,11 @@
 ## Personal Profile
 #### Team Members
 
-		Position	  Individual	    Where you are from     Education      Work Experience    % of Workload
+		Position	  Individual	    Where you are from     Education      Work Experience     % of Workload
 		Agile Member	  Izaya Jahnke	
 		Agile Member	  Michael Briggs	
 		Agile Member	  Mikaera Te Aho	
-		Agile Member	  Chris Temoni	
+		Agile Member	  Chris Temoni	    Gisborne		   Level 4        Factory work 3yrs   dsddsffdsdsfddds
 		Agile Member	  Leslie Tuhou	
 
 ## Project Charter
