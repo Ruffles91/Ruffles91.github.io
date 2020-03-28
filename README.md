@@ -45,7 +45,7 @@
 
 ## Personal Profile
 
-# Step 2: Planning
+# Step 2: Team Planning
 
 ## Team Brainstorm
  
