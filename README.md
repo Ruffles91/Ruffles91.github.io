@@ -44,7 +44,7 @@
 ## Personal Profile
 #### Team Members
 
-  ##### Position -------- Individual	<br />
+  ##### Position &nbsp; Individual	<br />
   Agile Member 	 Izaya Jahnke	<br />
   Agile Member	 Michael Briggs	<br />
   Agile Member	 Mikaera Te Aho	<br />
@@ -70,7 +70,7 @@ Our project is to connect the community through not only the physical world but 
 
 #### Workload
 
-Position  %nbsp;	Individual	% of Workload
+Position  	Individual	% of Workload
 Agile Member	Izaya Jahnke	
 Agile Member	Michael Briggs	
 Agile Member	Mikaera Te Aho	
