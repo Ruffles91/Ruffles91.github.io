@@ -19,13 +19,16 @@
 
 ## Key Roles
 
-**Suppliers:
-*Provides Services
+**Suppliers:**
+*Provides Services*
 
-**Communities:
-*User Interaction
+**Communities:**
+*User Interaction*
 
-**
+**Retail Jobs**
+*Hallensteins*
+*Warehouse*
+*Noel Leemings*
 
 
 ## Personal Profile
