@@ -44,7 +44,7 @@
 ## Personal Profile
 #### Team Members
 
-  ##### Position &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Individual	<br />
+  ##### Position &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Individual	<br />
   Agile Member 	 Izaya Jahnke	<br />
   Agile Member	 Michael Briggs	<br />
   Agile Member	 Mikaera Te Aho	<br />
@@ -70,13 +70,13 @@ Our project is to connect the community through not only the physical world but 
 
 #### Workload
 
-Position  	Individual	% of Workload
-Agile Member	Izaya Jahnke	
-Agile Member	Michael Briggs	
-Agile Member	Mikaera Te Aho	
-Agile Member	Chris Temoni	
-Agile Member	Leslie Tuhou	
-				
+##### Position &nbsp; &nbsp; &nbsp; 	Individual &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	% of Workload      <br />
+Agile Member	Izaya Jahnke	                   <br />
+Agile Member	Michael Briggs	                   <br />
+Agile Member	Mikaera Te Aho	                   <br />
+Agile Member	Chris Temoni	                   <br />
+Agile Member	Leslie Tuhou	                   <br />
+				 
 
 
 # Step 2: Team Planning
