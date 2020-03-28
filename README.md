@@ -51,18 +51,18 @@
  
  **Eit Parking**
  - Not suffient Parks for EIT.*
- - Create an app/software that allows the user to see occupied/unoccupied parks.*                       2
+ - Create an app/software that allows the user to see occupied/unoccupied parks.*                       
 
 **Eit Lecture Recording**
-- Multi-user watch party                                                                              3
+- Multi-user watch party                                                                              
 
 **Fitness(Walk it Off!)**
-- Walk a certain amount of distance and gain a discount for healthy food.                             4
+- Walk a certain amount of distance and gain a discount for healthy food.                             
 - Why? Because healthy food is quitew expensive compared to fatty foods.
 - Promoting healthier living.
 
 **Gisborne Event Calender**
-- Gizzy Specials                                                                                      1
+- Gizzy Specials                                                                                      
 - Refer to external database/website                                                       
 - Group and Friend Reactions through a disscussion forum and chat based communication system
 - Notification Feature which tells you what your friends are attending and have a interact button
