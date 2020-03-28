@@ -5,6 +5,8 @@
 ## List of Stakeholders
 
 ### Gisborne Specials / Calendar
+
+#### External Stakeholders
 - Suppliers
 - Communities
 - Retail Jobs
