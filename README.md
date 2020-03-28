@@ -70,7 +70,7 @@ Our project is to connect the community through not only the physical world but 
 
 #### Workload
 
-##### Position &nbsp; &nbsp; &nbsp; 	Individual &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	% of Workload      <br />
+##### Position &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Individual &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	% of Workload      <br />
 Agile Member	Izaya Jahnke	                   <br />
 Agile Member	Michael Briggs	                   <br />
 Agile Member	Mikaera Te Aho	                   <br />
