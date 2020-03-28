@@ -41,9 +41,15 @@
 *Strategic Settings of Activities,directing the Efforts of the designers Planning Processing etc.*
 
 
-
-
 ## Personal Profile
+#### Team Members
+
+		Position	  Individual	    Where you are from     Education      Work Experience    % of Workload
+		Agile Member	  Izaya Jahnke	
+		Agile Member	  Michael Briggs	
+		Agile Member	  Mikaera Te Aho	
+		Agile Member	  Chris Temoni	
+		Agile Member	  Leslie Tuhou	
 
 ## Project Charter
 ### Gisborne Special website/ Calendar
