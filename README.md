@@ -26,9 +26,9 @@
 *User Interaction*
 
 **Retail Jobs:**
-*Hallensteins,*
-*Warehouse,*
-*Noel Leemings*
+*Hallensteins,* *Warehouse,* *Noel Leemings*
+
+
 
 
 ## Personal Profile
