@@ -31,6 +31,9 @@
 **Suppliers:**
 *Provides Services*
 
+**Communities:**
+*User Interaction*
+
 
 ## Personal Profile
 
