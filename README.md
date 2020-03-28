@@ -4,24 +4,11 @@
 
 ## List of Stakeholders
 
-- Gisborne Specials / Calendar
+###**Gisborne Specials / Calendar**###
 - Suppliers
 - Communities
 - Retail Jobs
 - Information Center
-- Owners
-- Designers
-- Management
-
-## External Stakeholders
-
-- Suppliers
-- Communities
-- Retail Jobs
-- Information Center
-
-## Internal Stakeholders
-
 - Owners
 - Designers
 - Management
