@@ -1,6 +1,6 @@
 # Ruffles91.github.io
 
-# Step 1: Start of Project
+# Step 1: Start of Team Project
 
 ## Gisborne Specials / Calendar
 
