@@ -44,22 +44,21 @@
 
 # Step 2: Planning
 
-## Brainstorm
+## Team Brainstorm
+ 
+ **Eit Parking**
+ - Not suffient Parks for EIT.*
+ - Create an app/software that allows the user to see occupied/unoccupied parks.*                       2
 
-- Eit Parking
-  *Not suffient Parks for EIT.*
-  
-  *Create an app/software that allows the user to see occupied/unoccupied parks.*                       2
-
-Eit Lecture Recording
+**Eit Lecture Recording**
 - Multi-user watch party                                                                              3
 
-Fitness(Walk it Off!)
+**Fitness(Walk it Off!)**
 - Walk a certain amount of distance and gain a discount for healthy food.                             4
 - Why? Because healthy food is quitew expensive compared to fatty foods.
 - Promoting healthier living.
 
-Gisborne Event Calender
+**Gisborne Event Calender**
 - Gizzy Specials                                                                                      1
 - Refer to external database/website                                                       
 - Group and Friend Reactions through a disscussion forum and chat based communication system
