@@ -48,6 +48,7 @@
 
 - Eit Parking
   *Not suffient Parks for EIT.*
+  
   *Create an app/software that allows the user to see occupied/unoccupied parks.*                       2
 
 Eit Lecture Recording
