@@ -26,13 +26,16 @@
 *User Interaction*
 
 **Retail Jobs:**
-*Hallensteins,* *Warehouse,* *Noel Leemings*
+*Hallensteins, Warehouse, Noel Leemings*
 
 **Information Center**
-*Provides General Information,* *Event Information,* *Gisborne Tourism Information*
+*Provides General Information, Event Information, Gisborne Tourism Information*
 
 **Owners**
 *Website Authors/Publishers*
+
+**Designers**
+*will Create, update and development growth within the Calendar*
 
 
 
