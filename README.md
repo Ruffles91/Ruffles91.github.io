@@ -28,16 +28,16 @@
 **Retail Jobs:**
 *Hallensteins, Warehouse, Noel Leemings*
 
-**Information Center**
+**Information Center:**
 *Provides General Information, Event Information, Gisborne Tourism Information*
 
-**Owners**
+**Owners:**
 *Website Authors/Publishers*
 
-**Designers**
+**Designers:**
 *will Create, update and develope growth within the Calendar*
 
-**Management**
+**Management:**
 *Strategic Settings of Activities,directing the Efforts of the designers Planning Processing etc.*
 
 
