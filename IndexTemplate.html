@@ -1,0 +1,66 @@
+<!DOCTYPE>
+<html lang="en-NZ">
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="keywords" content="robotics, engineering">
+		<meta name="description" content="robotics and engineering website">
+		<meta name="author" content="Mikaera Te Aho">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" type="text/css" href="CSS/IndexStyle.css">
+		<title>Home</title>
+	</head>
+	
+	<body>
+		<!---loading image--->
+		<div class="loader">
+			<img src="images/gun.gif" alt="Loading..."/>
+		</div>
+	
+		<!---Navbar from w3schools--->
+		<div class="topnav" id="myTopnav">
+			<a href="Index.html" class="active">Home</a>
+			<a href="About.html">About</a>
+			<a href="TheFuture.html">The Future</a>
+			<div class="dropdown">
+				<button class="dropbtn">Timeline<i class="fa fa-caret-down"></i></button>
+				<div class="dropdown-content">
+					<a href="TimelineR.html">Timeline of Robotics</a>
+					<a href="TimelineE.html">Timeline of Engineering</a>
+				</div>
+			</div> 
+			<a href="Contact.html">Contact</a>
+			<a href="Bibliography.html">Bibliography</a>
+			<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+		</div>
+		
+		
+		
+		<!---footer--->
+		<footer>
+		<p>Posted by: Mikaera Te Aho</p>
+		<p>Contact information: <a href="gmail:teahomikaera@gmail.com">teahomikaera@gmail.com</a></p>
+		</footer>
+
+		<!---loading screen--->
+		<script type = "text/javascript">
+			window.addEventListener("load", function () {
+			const loader = document.querySelector(".loader");
+			loader.className += " hidden"; // class "loader hidden"
+			});
+		</script>
+	
+		<!---navbar button--->
+		<script>
+			function myFunction() {
+			var x = document.getElementById("myTopnav");
+			if (x.className === "topnav") {
+			x.className += " responsive";
+			} else {
+			x.className = "topnav";
+			}}
+		</script>
+	</body>
+	
+	
+</html>
