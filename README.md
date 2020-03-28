@@ -23,7 +23,7 @@
 *Provides Services*
 
 **Communities:**
-*User Interaction*
+*User Interaction, Socialize in groups/individually*
 
 **Retail Jobs:**
 *Hallensteins, Warehouse, Noel Leemings*
