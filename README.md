@@ -24,7 +24,7 @@
 
 - Owners
 - Designers
--Management
+- Management
 
 ## Personal Profile
 
