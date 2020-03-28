@@ -37,6 +37,9 @@
 **Designers**
 *will Create, update and develope growth within the Calendar*
 
+**Management**
+*Strategic Settings of Activities,directing the Efforts of the designers Planning Processing etc.*
+
 
 
 
