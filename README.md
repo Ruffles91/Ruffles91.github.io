@@ -67,8 +67,9 @@ Finance.*
 
 #### Project vision		
 *Our project is to connect the community through not only the physical world but via the internet world as well. This can be provided by implementing a website-based software that gives our Gisborne community access to: 
-- Socialize in groups or person to person interactions 
-- specials such as Clothing stores, Electronic stores and Events like Odeon Cinema specials, Local Sporting events, Concert Events, Gisbornes Popular Scenic views  .*
+- Socialize in groups, Class, Project Team, or person to person in Online based interactions via Message. 
+- Information access for when retail based stores have specials such as Clothing stores and Electronic stores. 
+- Events like Odeon Cinema specials, Local Sporting events, Concert Events, Gisbornes Popular Scenic views  .*
 
 #### Workload
 
@@ -86,7 +87,7 @@ Agile Member	Leslie Tuhou	                   <br />
 ## Team Brainstorming Ideas
  
  **Eit Parking**
- - Not suffient Parks for EIT.
+ - No sufficient Parks for EIT.
  - Create an app/software that allows the user to see occupied/unoccupied parks.                       
 
 **Eit Lecture Recording**
@@ -105,9 +106,10 @@ Agile Member	Leslie Tuhou	                   <br />
   displaying: going, maybe or a not intrested feature by their name each time you get a friend notification   
 - Put in place an information/Events Feature Showing Upcoming Events and things to do in Gisborne 
   Local Sports and Club registrations local walk ways and popular spots in gisborne 
-  and Directions to find these places via GPS etc.
-- Implement the above information to our calendar.
+  and Directions to find these places via GPS and Maps.
 
+#### Team Decision Outcome
+*It was decided that we would go foward with the 'Gisborne Event Calendar' idea with the intrest around bringing the community together by engaging in a calendar which will have information and interaction features.     
 
 # Step 3: Implement
 
