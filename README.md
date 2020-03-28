@@ -44,12 +44,13 @@
 ## Personal Profile
 #### Team Members
 
-      Position:	          Name:                 from:             Education      Work Experience     
-      Agile Member	  Izaya Jahnke	
-      Agile Member	  Michael Briggs	
-      Agile Member	  Mikaera Te Aho	
-      Agile Member	  Chris Temoni	        Gisborne	  Level 4        Factory work 3yrs
-      Agile Member	  Leslie Tuhou	
+  Position	 Individual	
+  Agile Member	 Izaya Jahnke	
+  Agile Member	 Michael Briggs	
+  Agile Member	 Mikaera Te Aho	
+  Agile Member	 Chris Temoni	
+  Agile Member	 Leslie Tuhou	
+
 
 ## Project Charter
 ### Gisborne Special website/ Calendar
