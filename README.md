@@ -74,7 +74,7 @@ Our project is to connect the community through not only the physical world but 
 
 # Step 2: Team Planning
 
-## Team Brainstorm
+## Team Brainstorming Ideas
  
  **Eit Parking**
  - Not suffient Parks for EIT.*
