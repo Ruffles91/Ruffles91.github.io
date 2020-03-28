@@ -5,7 +5,6 @@
 ## List of Stakeholders
 
 - Gisborne Specials / Calendar
-  kljlkjljlkjlk
 - Suppliers
 - Communities
 - Retail Jobs
@@ -29,7 +28,8 @@
 
 ## Key Roles
 
-- 
+- Suppliers 
+
 
 ## Personal Profile
 
