@@ -29,7 +29,7 @@
 *Hallensteins,* *Warehouse,* *Noel Leemings*
 
 **Information Center**
-* Provides General Information,* *Event Information,* *Gisborne Tourism Information*
+*Provides General Information,* *Event Information,* *Gisborne Tourism Information*
 
 
 
