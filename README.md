@@ -71,6 +71,15 @@ Finance.*
 - Information access for when retail based stores have specials such as Clothing stores and Electronic stores. 
 - Events like Odeon Cinema specials, Local Sporting events, Concert Events, Gisbornes Popular Scenic views  .*
 
+## Milestones
+
+### Weekly Goals
+- 
+- 
+- 
+- 
+-
+
 #### Workload
 
 ##### Position &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Individual &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	% of Workload      <br />
